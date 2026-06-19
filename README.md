@@ -19,7 +19,7 @@ Mapped geographic sales distribution to find strongest markets
 
 
 # Dashboard Preview
-
+sales dashboard.png
 
 
 # Files in this Repo
@@ -29,5 +29,5 @@ screenshot.png — Dashboard preview image
 
 # Author
 Vishwaj Kummari
-LinkedIn: linkedin.com/in/vishwaj-kummari 
+LinkedIn: https://www.linkedin.com/in/vishwaj-kummari 
 Email: vishwaj668@gmail.com
