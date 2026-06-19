@@ -19,7 +19,7 @@ Mapped geographic sales distribution to find strongest markets
 
 
 # Dashboard Preview
-sales dashboard.png
+dashboard-preview.png
 
 
 # Files in this Repo
