@@ -29,5 +29,5 @@ screenshot.png — Dashboard preview image
 
 # Author
 Vishwaj Kummari
-LinkedIn: linkedin.com/in/vishwaj-kummari
+LinkedIn: linkedin.com/in/vishwaj-kummari 
 Email: vishwaj668@gmail.com
